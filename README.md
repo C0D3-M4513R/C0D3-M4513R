@@ -1,5 +1,5 @@
 👋 Hi, I’m C0D3-M4513R.
-My Name is roughly the same across all platorms. My Nickname is mostly follows this regex: "C0D3[-_ ]*?M4513R".
+My Name is roughly the same across all platorms. My Nickname mostly follows this regex: "C0D3[-_ ]*?M4513R".
 
  I’m interested in:
 - Programming
