@@ -6,7 +6,7 @@ My Name is roughly the same across all platorms. My Nickname mostly follows this
 - 3D-Modelling
 - Animation?
 
-🌱 I’m currently learning Rust
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=C0D3-M4513R&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 💞️ I’m looking to collaborate on something? Not sure. 
 Do contact me though, if you really want to contribute to one of my projects!
