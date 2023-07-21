@@ -12,6 +12,10 @@ My Name is roughly the same across all platorms. My Nickname mostly follows this
 Do contact me though, if you really want to contribute to one of my projects!
 Help is always appreciated.
 
+Contributer/Staff at:
+- [https://pixelgaming.co](https://pixelgaming.co)
+- [https://magmafoundation.com](https://magmafoundation.org)
+
 📫 How to reach me:
 - Send me a mail at while(dot)stuck+git(at)gmail.com
 - Join my discord at https://discord.gg/mTMVv7t
