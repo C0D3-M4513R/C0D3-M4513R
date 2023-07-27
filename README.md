@@ -17,7 +17,8 @@ Do contact me though, if you really want to contribute to one of my projects!
 Help is always appreciated.
 
 Contributer/Staff at:
-- [https://pixelgaming.co](https://pixelgaming.co)
+- [https://github.com/orgs/C0D3M4513R-Minecraft](https://github.com/orgs/C0D3M4513R-Minecraft) That Org just exists to organize my own repos a little more.
+- [https://pixelgaming.co](https://pixelgaming.co),[https://github.com/orgs/Pixel-gaming](https://github.com/orgs/Pixel-gaming)
 - [https://magmafoundation.com](https://magmafoundation.org)
 
 📫 How to reach me:
