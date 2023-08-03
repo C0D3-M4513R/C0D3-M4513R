@@ -25,6 +25,7 @@ Contributer/Staff at:
 - Send me a mail at while(dot)stuck+git(at)gmail.com
 - Join my discord at https://discord.gg/mTMVv7t
 
+Support me on Ko-Fi at: [https://ko-fi.com/c0d3_m4513r](https://ko-fi.com/c0d3_m4513r).
 <!---
 C0D3-M4513R/C0D3-M4513R is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
