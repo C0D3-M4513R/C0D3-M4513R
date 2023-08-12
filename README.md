@@ -19,7 +19,7 @@ Help is always appreciated.
 Contributer/Staff at:
 - [https://github.com/orgs/C0D3M4513R-Minecraft](https://github.com/orgs/C0D3M4513R-Minecraft) That Org just exists to organize my own repos a little more.
 - [https://pixelgaming.co](https://pixelgaming.co),[https://github.com/orgs/Pixel-gaming](https://github.com/orgs/Pixel-gaming)
-- [https://magmafoundation.com](https://magmafoundation.org)
+- Ex Staff, but doing fixes for Pixelgaming: [https://magmafoundation.com](https://magmafoundation.org)
 
 📫 How to reach me:
 - Send me a mail at while(dot)stuck+git(at)gmail.com
