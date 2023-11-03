@@ -9,7 +9,7 @@ My Name is roughly the same across all platorms. My Nickname mostly follows this
 [![Top Langs](https://github-readme-stats-gamma-six-49.vercel.app/api/top-langs/?username=C0D3-M4513R&theme=radical&hide=kotlin)](https://github.com/anuraghazra/github-readme-stats) 
 
 Notes:
-- The languages above don't include private repos I think (although it should be able to get that information).
+- The languages above don't include organization private repos I think (although it should be able to get that information).
 - Also not included are contributions to Magma (see contributer section).
 - The commit number is broken. Don't rely on that. 
 
