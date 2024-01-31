@@ -6,7 +6,7 @@ My Name is roughly the same across all platorms. My Nickname mostly follows this
 - 3D-Modelling
 - Animation?
 
-[![Top Langs](https://github-readme-stats-gamma-six-49.vercel.app/api/top-langs/?username=C0D3-M4513R&disable_animations=true&theme=radical&hide=nix)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats-gamma-six-49.vercel.app/api/top-langs/?username=C0D3-M4513R&disable_animations=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats) 
 
 Notes:
 - The languages above don't include commits to any repos in organizations. (as such my java statistic is way lower, than it should be)
