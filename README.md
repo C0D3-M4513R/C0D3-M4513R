@@ -27,6 +27,9 @@ Contributer/Staff at:
   - [https://github.com/MagmaFoundationDiscontinued](https://github.com/MagmaFoundationDiscontinued) (source of magma servers only)
   - [https://magma.c0d3m4513r.com](https://magma.c0d3m4513r.com) (all releases, all software by magma)
 
+I also have an alt on github, for things/apps that have permissions I do not understand:
+- https://github.com/C0D3-M4523R
+
 📫 How to reach me:
 - Send me a mail at while(dot)stuck+git(at)gmail.com
 - Join my discord at https://discord.gg/mTMVv7t
