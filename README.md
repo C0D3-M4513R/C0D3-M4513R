@@ -10,7 +10,6 @@ My Name is roughly the same across all platorms. My Nickname mostly follows this
 
 Notes:
 - The languages above don't include commits to any repos in organizations. (as such my java statistic is way lower, than it should be)
-- Also not included are contributions to Magma (see contributer section).
 
 [![C0D3 M4513R's GitHub stats](https://github-readme-stats-gamma-six-49.vercel.app/api?username=C0D3-M4513R&theme=radical&show_icons=true&hide_title=true&hide=stars&number_format=long&hide_border=true&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
 
