@@ -20,12 +20,7 @@ Help is always appreciated.
 
 Contributer/Staff at:
 - [https://github.com/orgs/C0D3M4513R-Minecraft](https://github.com/orgs/C0D3M4513R-Minecraft) That Org just exists to organize my own repos a little more.
-- [https://pixelgaming.co](https://pixelgaming.co),[https://github.com/orgs/Pixel-gaming](https://github.com/orgs/Pixel-gaming)
 - [https://github.com/kettingpowered](https://github.com/kettingpowered) Ketting - a hybrid Minecraft Server combining Forge, Bukkit and Spigot
-- [https://magmafoundation.com](https://magmafoundation.org) (dead since 15.11.2023) Magma a hybrid Minecraft Server combining Forge, Bukkit and Spigot
-  - Archives at:
-  - [https://github.com/MagmaFoundationDiscontinued](https://github.com/MagmaFoundationDiscontinued) (source of magma servers only)
-  - [https://magma.c0d3m4513r.com](https://magma.c0d3m4513r.com) (all releases, all software by magma)
 
 I also have an alt on github, for things/apps that have permissions I do not understand:
 - https://github.com/C0D3-M4523R
