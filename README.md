@@ -6,14 +6,24 @@ My Name is roughly the same across all platorms. My Nickname mostly follows this
 - 3D-Modelling
 - Animation?
 
-[![Top Langs](https://raw.githubusercontent.com/C0D3-M4513R/github-stats-rs/refs/heads/generated/languages.svg)](https://github.com/C0D3-M4513R/github-stats-rs) 
+<a href="https://github.com/C0D3-M4513R/github-stats-rs">
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/C0D3-M4513R/github-stats-rs/blob/generated/overview.svg#gh-dark-mode-only">
+ <img alt="Information about Number of Stars, Forks, Contributions, Lines of Code Changed and a couple more Statistics" src="https://github.com/C0D3-M4513R/github-stats-rs/blob/generated/overview.svg#gh-light-mode-only">
+</picture>
+</a>
 
 Notes:
 - The languages above don't include commits to any repos in organizations. (as such my java statistic is way lower, than it should be)
 
-[![C0D3 M4513R's GitHub stats](https://raw.githubusercontent.com/C0D3-M4513R/github-stats-rs/refs/heads/generated/overview.svg)](https://github.com/C0D3-M4513R/github-stats-rs)
+<a href="https://github.com/C0D3-M4513R/github-stats-rs">
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="https://github.com/C0D3-M4513R/github-stats-rs/blob/generated/languages.svg#gh-dark-mode-only">
+ <img alt="Information about most frequently used Languages " src="https://github.com/C0D3-M4513R/github-stats-rs/blob/generated/languages.svg#gh-light-mode-only">
+</picture>
+</a>
 
-💞️ I’m looking to collaborate on something? Not sure. 
+ I’m looking to collaborate on something? Not sure. 
 Do contact me though, if you really want to contribute to one of my projects!
 Help is always appreciated.
 
