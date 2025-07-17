@@ -14,7 +14,7 @@ My Name is roughly the same across all platorms. My Nickname mostly follows this
 </a>
 
 Notes:
-- The languages above don't include commits to any repos in organizations. (as such my java statistic is way lower, than it should be)
+- The stats above and languages below don't include commits to any repos in organizations. (as such my java statistic is way lower, than it should be)
 
 <a href="https://github.com/C0D3-M4513R/github-stats-rs">
 <picture>
@@ -23,7 +23,7 @@ Notes:
 </picture>
 </a>
 
- I’m looking to collaborate on something? Not sure. 
+I’m looking to collaborate on something? Not sure. 
 Do contact me though, if you really want to contribute to one of my projects!
 Help is always appreciated.
 
